@@ -31,8 +31,8 @@ class ColorSchemeTheme {
             surfaceVariant: ThemeColorLightMaterial3.surfaceVariant,
             onSurfaceVariant: ThemeColorLightMaterial3.onSurfaceVariant,
             outline: ThemeColorLightMaterial3.outline,
-            primaryVariant: Color(0xff0055ff),
-            secondaryVariant: Color(0xFF007a0e),
+            // primaryVariant: Color(0xff0055ff),
+            // secondaryVariant: Color(0xFF007a0e),
           )
         : ColorScheme.dark(
             primary: ThemeColorDarkMaterial3.primary,
@@ -58,8 +58,8 @@ class ColorSchemeTheme {
             surfaceVariant: ThemeColorDarkMaterial3.surfaceVariant,
             onSurfaceVariant: ThemeColorDarkMaterial3.onSurfaceVariant,
             outline: ThemeColorDarkMaterial3.outline,
-            primaryVariant: Color(0xfff6ae2d),
-            secondaryVariant: Color(0xff228B22),
+            // primaryVariant: Color(0xfff6ae2d),
+            // secondaryVariant: Color(0xff228B22),
           );
   }
 }

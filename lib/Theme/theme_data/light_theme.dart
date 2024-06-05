@@ -77,7 +77,7 @@ class LightThemeData {
         //     FloatingActionButtonCustome.floatingActionButtonCustome(
         //         themeMode: themeLight),
         dividerColor: ThemeColorLightMaterial3.outline,
-        errorColor: Color(0xfff0323c),
+        // errorColor: Color(0xfff0323c),
         // popupMenuTheme: PopupMenuThemeData(
         //   color: ThemeColorLightMaterial3.surface,
         //   textStyle: TextThemeCustom.lightTextTheme()

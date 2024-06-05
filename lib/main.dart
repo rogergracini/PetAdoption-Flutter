@@ -88,6 +88,7 @@ class PetAdoption extends StatelessWidget {
           },
         ),
       ),
+      debugShowCheckedModeBanner: false,
     );
   }
 }

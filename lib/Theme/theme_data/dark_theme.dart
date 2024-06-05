@@ -50,7 +50,7 @@ class DarkThemeData {
       dividerTheme: DividerThemeData(
           color: ThemeColorDarkMaterial3.outline.withAlpha(50)),
       // Color(0xffd1d1d1),
-      errorColor: Colors.orange,
+      // errorColor: Colors.orange,
       cardColor: ThemeColorDarkMaterial3.surface,
 
       // floatingActionButtonTheme:
